@@ -9,4 +9,4 @@ function marinaraSauce(someName){
     console.log("Cover the pot, bring to a boil, reduce the heat to medium low, and simmer until the sauce is heated, about 10 minutes.");
     console.log(`Stir in ${oneFourth} cup roughly chopped fresh basil, salt and pepper as needed.`);
 }
-console.log(marinaraSauce())
+console.log(marinaraSauce(someName))
